@@ -42,7 +42,7 @@ nav img {
 }
 
 nav img:hover {
-    background: lightgray;
+    background: #ececec;
     display: inline-block;
     outline: none;
     vertical-align: middle;
